@@ -1,0 +1,9 @@
+1 -> Verifico se o valor a ser alterado é menor que 0 se for retorna 1, verifico se as bases estao entre 2 e 36;
+
+2 -> Recebo os dados e transformo as bases em inteiro e mantenho o valor a ser alterado como string;
+
+3 -> Converto o número para a base 10;
+
+4 -> Converto para base N;
+
+5-> Mostra o Valor Convertido;

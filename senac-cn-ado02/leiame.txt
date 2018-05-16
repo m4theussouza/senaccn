@@ -1,0 +1,7 @@
+1 -> Foi feito a funcão para exponencial e fatorial que servem de base para o calculo da serie de Taylor.
+
+2 -> Depois com base na serie de Taylor, foram implementados as funções seno e cosseno.
+
+3 -> Foi pego um modelo para o plot do Gráfico.
+
+4 -> Gera os valores.

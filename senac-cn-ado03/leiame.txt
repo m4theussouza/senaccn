@@ -1,0 +1,9 @@
+#1 -- > Criei, inicialmente 3 funções que calculam exponencial:
+	1 -> uma para float
+	2 -> uma para double
+	3 -> uma para long double
+
+#2 -- > Depois foi criado mais 3 funções idênticas que retornam o calculo da formula dada.
+	As funcões só mudam os tipos, float, long double e double.
+
+#3 -- > Depois foi pego um modelo para plotar os gráficos.
